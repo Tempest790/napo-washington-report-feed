@@ -25,42 +25,32 @@ def to_rfc2822(dt: datetime.datetime) -> str:
 def parse_items(page_html: str):
     items = []
 
-    link_title_pattern = re.compile(
-        r'<a[^>]+href="(?P<href>/[^"]+)"[^>]*>(?P<title>[^<]{4,200})</a>',
-        re.IGNORECASE,
+    # Match blocks that look like:
+    #   December 5, 2025 ... href="/news/..." >TITLE</a> ... Read more
+    pattern = re.compile(
+        r'(?P<date>'
+        r'(January|February|March|April|May|June|July|August|September|October|November|December)'
+        r'\s+\d{1,2},\s+\d{4}'
+        r')'
+        r'.{0,800}?href="(?P<href>/news/[^"]+)"[^>]*>'
+        r'(?P<title>[^<]{4,300})</a>'
+        r'.{0,800}?Read more',
+        re.IGNORECASE | re.DOTALL
     )
 
-    month_date_pattern = re.compile(
-        r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\b",
-        re.IGNORECASE,
-    )
-    numeric_date_pattern = re.compile(r"\b\d{1,2}/\d{1,2}/\d{4}\b")
-
-    for m in link_title_pattern.finditer(page_html):
-        href = m.group("href")
+    for m in pattern.finditer(page_html):
+        date_str = m.group("date").strip()
+        href = m.group("href").strip()
         title = html.unescape(m.group("title")).strip()
-
-        if not title or len(title) < 6:
-            continue
 
         url = "https://www.napo.org" + href
 
-        start = max(0, m.start() - 500)
-        end = min(len(page_html), m.end() + 500)
-        window = page_html[start:end]
-
-        date_str = None
-        md = month_date_pattern.search(window)
-        nd = numeric_date_pattern.search(window)
-        if md:
-            date_str = md.group(0)
-        elif nd:
-            date_str = nd.group(0)
-
+        # de-dupe, just in case
         if any(it["link"] == url for it in items):
             continue
 
         items.append({"title": title, "date": date_str, "link": url})
+
         if len(items) >= MAX_ITEMS:
             break
 
