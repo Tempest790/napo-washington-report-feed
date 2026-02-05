@@ -99,6 +99,7 @@ def build_rss(items):
   <channel>
     <title>{html.escape(channel_title)}</title>
     <link>{html.escape(channel_link)}</link>
+    <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>{html.escape(channel_desc)}</description>
     <lastBuildDate>{to_rfc2822(now)}</lastBuildDate>
 {chr(10).join(rss_items)}
