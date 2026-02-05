@@ -12,7 +12,7 @@ NAPO_URL = "https://www.napo.org/washington-report"
 OUT_FILE = "feed.xml"
 
 # How many items to include
-MAX_ITEMS = 3
+MAX_ITEMS = 8
 
 # The public URL of your feed (GitHub Pages)
 FEED_SELF = "https://tempest790.github.io/napo-washington-report-feed/feed.xml"
