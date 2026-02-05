@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NAPO Washington Report (Latest)</title>
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Thu, 05 Feb 2026 17:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 18:14:57 +0000</lastBuildDate>
     <item>
       <title>Statement from the National Association of Police Organizations on the Need to Protect Public Safety and Officer Safety During Federal Immigration Actions</title>
       <link>https://www.napo.org/news/statement-from-the-national-association-of-police-organizations-on-the-need-to-protect-public-safety-and-officer-safety-during-federal-immigration-actions</link>
       <guid isPermaLink="true">https://www.napo.org/news/statement-from-the-national-association-of-police-organizations-on-the-need-to-protect-public-safety-and-officer-safety-during-federal-immigration-actions</guid>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <description>January 25, 2026</description>
+      <description><![CDATA[January 25, 2026<br/><p><a href="https://www.napo.org/news/statement-from-the-national-association-of-police-organizations-on-the-need-to-protect-public-safety-and-officer-safety-during-federal-immigration-actions">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/statement-from-the-national-association-of-police-organizations-on-the-need-to-protect-public-safety-and-officer-safety-during-federal-immigration-actions">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
     <item>
       <title>NAPO 2025 Year in Review; Legislative Scorecard Now Available; FBI Law Enforcement Engagement Council; FY26 Appropriations; VALOR Grant</title>
       <link>https://www.napo.org/news/napo-2025-year-in-review-legislative-scorecard-now-available-fbi-law-enforcement-engagement-council-fy26-appropriations-valor-grant</link>
       <guid isPermaLink="true">https://www.napo.org/news/napo-2025-year-in-review-legislative-scorecard-now-available-fbi-law-enforcement-engagement-council-fy26-appropriations-valor-grant</guid>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <description>January 16, 2026</description>
+      <description><![CDATA[January 16, 2026<br/><p><a href="https://www.napo.org/news/napo-2025-year-in-review-legislative-scorecard-now-available-fbi-law-enforcement-engagement-council-fy26-appropriations-valor-grant">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-2025-year-in-review-legislative-scorecard-now-available-fbi-law-enforcement-engagement-council-fy26-appropriations-valor-grant">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
     <item>
       <title>NAPO RECOGNIZES NATIONAL LAW ENFORCEMENT APPRECIATION DAY</title>
       <link>https://www.napo.org/news/napo-recognizes-national-law-enforcement-day</link>
       <guid isPermaLink="true">https://www.napo.org/news/napo-recognizes-national-law-enforcement-day</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <description>January 09, 2026</description>
+      <description><![CDATA[January 09, 2026<br/><p><a href="https://www.napo.org/news/napo-recognizes-national-law-enforcement-day">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-recognizes-national-law-enforcement-day">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
