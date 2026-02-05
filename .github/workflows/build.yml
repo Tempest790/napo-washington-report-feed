@@ -1,0 +1,31 @@
+name: Build RSS
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # daily at 12:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build feed
+        run: python build_feed.py
+
+      - name: Commit feed.xml
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add feed.xml
+          git commit -m "Update feed" || echo "No changes"
+          git push
