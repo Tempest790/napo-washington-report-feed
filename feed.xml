@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NAPO Washington Report (Latest)</title>
+    <link>https://www.napo.org/washington-report</link>
+    <description>Latest Washington Report entries from NAPO (title + date + link).</description>
+    <lastBuildDate>Thu, 05 Feb 2026 17:22:01 +0000</lastBuildDate>
+    <item>
+      <title>About Us</title>
+      <link>https://www.napo.org/about-us</link>
+      <guid isPermaLink="true">https://www.napo.org/about-us</guid>
+      <pubDate>Thu, 05 Feb 2026 17:22:01 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Executive Board</title>
+      <link>https://www.napo.org/executive-board</link>
+      <guid isPermaLink="true">https://www.napo.org/executive-board</guid>
+      <pubDate>Thu, 05 Feb 2026 17:22:01 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>NAPO News</title>
+      <link>https://www.napo.org/news</link>
+      <guid isPermaLink="true">https://www.napo.org/news</guid>
+      <pubDate>Thu, 05 Feb 2026 17:22:01 +0000</pubDate>
+      <description></description>
+    </item>
+  </channel>
+</rss>
