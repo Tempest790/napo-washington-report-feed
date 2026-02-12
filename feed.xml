@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Wed, 11 Feb 2026 13:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 13:01:01 +0000</lastBuildDate>
+    <item>
+      <title>NAPO Submits Written Testimony for House Hearing on Consent Decree Monitors</title>
+      <link>https://www.napo.org/news/napo-submits-written-testimony-for-house-hearing-on-consent-decree-monitors</link>
+      <guid isPermaLink="true">https://www.napo.org/news/napo-submits-written-testimony-for-house-hearing-on-consent-decree-monitors</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[February 11, 2026<br/><p><a href="https://www.napo.org/news/napo-submits-written-testimony-for-house-hearing-on-consent-decree-monitors">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-submits-written-testimony-for-house-hearing-on-consent-decree-monitors">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Fuel the Force Act; No Tax on Restored Benefits Act; Public Safety Congressional Grant Briefing; NAPO on the Hill; National Blue Alert; Pension Seminar Sponsors</title>
       <link>https://www.napo.org/news/fuel-the-force-act-no-tax-on-restored-benefits-act-public-safety-congressional-grant-briefing-napo-on-the-hill-national-blue-alert-pension-seminar-sponsors</link>
@@ -63,14 +71,6 @@
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
       <description><![CDATA[December 08, 2025<br/><p><a href="https://www.napo.org/news/napo-victory-priorities-included-in-ndaa">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-victory-priorities-included-in-ndaa">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NAPO on the Hill: NDAA; Counter-UAS; First Responder Medicare Buy-In; Hearing on Violence Against Officers; Back the Blue Act; Targeting Online Sales of Fentanyl</title>
-      <link>https://www.napo.org/news/napo-on-the-hill-ndaa-counter-uas-first-responder-medicare-buy-in-hearing-on-violence-against-officers-back-the-blue-act-targeting-online-sales-of-fentanyl</link>
-      <guid isPermaLink="true">https://www.napo.org/news/napo-on-the-hill-ndaa-counter-uas-first-responder-medicare-buy-in-hearing-on-violence-against-officers-back-the-blue-act-targeting-online-sales-of-fentanyl</guid>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <description><![CDATA[December 05, 2025<br/><p><a href="https://www.napo.org/news/napo-on-the-hill-ndaa-counter-uas-first-responder-medicare-buy-in-hearing-on-violence-against-officers-back-the-blue-act-targeting-online-sales-of-fentanyl">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-on-the-hill-ndaa-counter-uas-first-responder-medicare-buy-in-hearing-on-violence-against-officers-back-the-blue-act-targeting-online-sales-of-fentanyl">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
