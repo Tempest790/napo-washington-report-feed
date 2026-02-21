@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Fri, 20 Feb 2026 12:53:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 12:40:06 +0000</lastBuildDate>
+    <item>
+      <title>NAPO Testimony on Federal Monitors; PBM Reforms; NAPO Opposes De Minimis Bill; FirstNet Reauthorization; DHS Shutdown; New OSLLE Leadership</title>
+      <link>https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership</link>
+      <guid isPermaLink="true">https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[February 20, 2026<br/><p><a href="https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>NAPO Submits Written Testimony for House Hearing on Consent Decree Monitors</title>
       <link>https://www.napo.org/news/napo-submits-written-testimony-for-house-hearing-on-consent-decree-monitors</link>
@@ -63,14 +71,6 @@
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       <description><![CDATA[December 19, 2025<br/><p><a href="https://www.napo.org/news/ndaa-signed-into-law-fentanyl-weapon-of-mass-destruction-tracking-fentanyl-on-social-media-4th-amendment-is-not-for-sale-act-1033-program-blue-envelope-programs">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/ndaa-signed-into-law-fentanyl-weapon-of-mass-destruction-tracking-fentanyl-on-social-media-4th-amendment-is-not-for-sale-act-1033-program-blue-envelope-programs">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NAPO VICTORY, Priorities Included in NDAA</title>
-      <link>https://www.napo.org/news/napo-victory-priorities-included-in-ndaa</link>
-      <guid isPermaLink="true">https://www.napo.org/news/napo-victory-priorities-included-in-ndaa</guid>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <description><![CDATA[December 08, 2025<br/><p><a href="https://www.napo.org/news/napo-victory-priorities-included-in-ndaa">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-victory-priorities-included-in-ndaa">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
