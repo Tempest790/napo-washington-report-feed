@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Tue, 24 Feb 2026 12:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 12:58:22 +0000</lastBuildDate>
+    <item>
+      <title>Statement from NAPO President Mick McHale on the assaults on NYPD Police Officers</title>
+      <link>https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers</link>
+      <guid isPermaLink="true">https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[February 24, 2026<br/><p><a href="https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>NAPO Testimony on Federal Monitors; PBM Reforms; NAPO Opposes De Minimis Bill; FirstNet Reauthorization; DHS Shutdown; New OSLLE Leadership</title>
       <link>https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership</link>
@@ -63,14 +71,6 @@
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[January 07, 2026<br/><p><a href="https://www.napo.org/news/napo-thanks-appropriators-for-supporting-an-independent-cops-office">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-thanks-appropriators-for-supporting-an-independent-cops-office">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NDAA Signed into Law; Fentanyl Weapon of Mass Destruction; Tracking Fentanyl on Social Media; 4th Amendment is Not For Sale Act; 1033 Program; Blue Envelope Programs</title>
-      <link>https://www.napo.org/news/ndaa-signed-into-law-fentanyl-weapon-of-mass-destruction-tracking-fentanyl-on-social-media-4th-amendment-is-not-for-sale-act-1033-program-blue-envelope-programs</link>
-      <guid isPermaLink="true">https://www.napo.org/news/ndaa-signed-into-law-fentanyl-weapon-of-mass-destruction-tracking-fentanyl-on-social-media-4th-amendment-is-not-for-sale-act-1033-program-blue-envelope-programs</guid>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <description><![CDATA[December 19, 2025<br/><p><a href="https://www.napo.org/news/ndaa-signed-into-law-fentanyl-weapon-of-mass-destruction-tracking-fentanyl-on-social-media-4th-amendment-is-not-for-sale-act-1033-program-blue-envelope-programs">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/ndaa-signed-into-law-fentanyl-weapon-of-mass-destruction-tracking-fentanyl-on-social-media-4th-amendment-is-not-for-sale-act-1033-program-blue-envelope-programs">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
