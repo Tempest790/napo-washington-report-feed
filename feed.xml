@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Fri, 06 Mar 2026 12:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 12:40:06 +0000</lastBuildDate>
+    <item>
+      <title>Bill to Improve PSOB; HELPER Act Update; Congress Takes Up Sanctuary City Bills; NAPO on the Hill; Safe Access to Cash Act; DHS Shutdown</title>
+      <link>https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown</link>
+      <guid isPermaLink="true">https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[March 06, 2026<br/><p><a href="https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Statement from NAPO President Mick McHale on the assaults on NYPD Police Officers</title>
       <link>https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers</link>
@@ -63,14 +71,6 @@
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[January 09, 2026<br/><p><a href="https://www.napo.org/news/napo-recognizes-national-law-enforcement-day">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-recognizes-national-law-enforcement-day">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NAPO Thanks Appropriators for Supporting an Independent COPS Office</title>
-      <link>https://www.napo.org/news/napo-thanks-appropriators-for-supporting-an-independent-cops-office</link>
-      <guid isPermaLink="true">https://www.napo.org/news/napo-thanks-appropriators-for-supporting-an-independent-cops-office</guid>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[January 07, 2026<br/><p><a href="https://www.napo.org/news/napo-thanks-appropriators-for-supporting-an-independent-cops-office">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-thanks-appropriators-for-supporting-an-independent-cops-office">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
