@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Fri, 20 Mar 2026 12:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:41:32 +0000</lastBuildDate>
+    <item>
+      <title>NAPO on the Hill; DHS Shutdown Continues; DOJ Release Byrne JAG Grant Solicitation</title>
+      <link>https://www.napo.org/news/napo-on-the-hill-dhs-shutdown-continues-doj-release-byrne-jag-grant-solicitation</link>
+      <guid isPermaLink="true">https://www.napo.org/news/napo-on-the-hill-dhs-shutdown-continues-doj-release-byrne-jag-grant-solicitation</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[March 20, 2026<br/><p><a href="https://www.napo.org/news/napo-on-the-hill-dhs-shutdown-continues-doj-release-byrne-jag-grant-solicitation">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-on-the-hill-dhs-shutdown-continues-doj-release-byrne-jag-grant-solicitation">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Bill to Improve PSOB; HELPER Act Update; Congress Takes Up Sanctuary City Bills; NAPO on the Hill; Safe Access to Cash Act; DHS Shutdown</title>
       <link>https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown</link>
@@ -63,14 +71,6 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[January 16, 2026<br/><p><a href="https://www.napo.org/news/napo-2025-year-in-review-legislative-scorecard-now-available-fbi-law-enforcement-engagement-council-fy26-appropriations-valor-grant">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-2025-year-in-review-legislative-scorecard-now-available-fbi-law-enforcement-engagement-council-fy26-appropriations-valor-grant">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NAPO RECOGNIZES NATIONAL LAW ENFORCEMENT APPRECIATION DAY</title>
-      <link>https://www.napo.org/news/napo-recognizes-national-law-enforcement-day</link>
-      <guid isPermaLink="true">https://www.napo.org/news/napo-recognizes-national-law-enforcement-day</guid>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[January 09, 2026<br/><p><a href="https://www.napo.org/news/napo-recognizes-national-law-enforcement-day">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-recognizes-national-law-enforcement-day">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
