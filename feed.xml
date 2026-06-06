@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Fri, 05 Jun 2026 14:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:24:50 +0000</lastBuildDate>
+    <item>
+      <title>DOJ Law Enforcement Meeting; COPS Consolidation; NAPO on the Hill; Crypto Legislation; Model Cities Initiative</title>
+      <link>https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative</link>
+      <guid isPermaLink="true">https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[June 05, 2026<br/><p><a href="https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>NAPO Priority Bills Approved by Committee; Monitor Accountability Act Update; Lobby Day &amp; Luncheon; Tax Cuts for Families of Fallen Officers; Stop the Doxx Act; Protecting Officers from Harassment; COPS</title>
       <link>https://www.napo.org/news/napo-priority-bills-approved-by-committee-monitor-accountability-act-update-lobby-day-luncheon-tax-cuts-for-families-of-fallen-officers-stop-the-doxx-act-protecting-officers-from-harassment-cops</link>
@@ -63,14 +71,6 @@
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[February 24, 2026<br/><p><a href="https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/statement-from-napo-president-mick-mchale-on-the-assaults-on-nypd-police-officers">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NAPO Testimony on Federal Monitors; PBM Reforms; NAPO Opposes De Minimis Bill; FirstNet Reauthorization; DHS Shutdown; New OSLLE Leadership</title>
-      <link>https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership</link>
-      <guid isPermaLink="true">https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[February 20, 2026<br/><p><a href="https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-testimony-on-federal-monitors-pbm-reforms-napo-opposes-de-minimis-bill-firstnet-reauthorization-dhs-shutdown-new-oslle-leadership">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
