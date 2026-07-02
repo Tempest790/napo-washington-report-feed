@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Wed, 01 Jul 2026 14:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:51:18 +0000</lastBuildDate>
+    <item>
+      <title>White House Law Enforcement Roundtable; NAPO on the Hill; DOJ Equitable Sharing Program; $3 Billion Immigration-Related DOJ Grant; OJP Nominee Hearing</title>
+      <link>https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing</link>
+      <guid isPermaLink="true">https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[July 01, 2026<br/><p><a href="https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Senate Passes Fighting PTSD Act; NAPO Meets with Administration on Crypto Regulations; NAPO President Inducted into FL Law Enforcement Hall of Fame; COPS Grants Announced; NAPO Legislative Positions</title>
       <link>https://www.napo.org/news/senate-passes-fighting-ptsd-act-napo-meets-with-administration-on-crypto-regulations-napo-president-inducted-into-fl-law-enforcement-hall-of-fame-cops-grants-announced-napo-legislative-positions</link>
@@ -63,14 +71,6 @@
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[March 20, 2026<br/><p><a href="https://www.napo.org/news/napo-on-the-hill-dhs-shutdown-continues-doj-release-byrne-jag-grant-solicitation">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-on-the-hill-dhs-shutdown-continues-doj-release-byrne-jag-grant-solicitation">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Bill to Improve PSOB; HELPER Act Update; Congress Takes Up Sanctuary City Bills; NAPO on the Hill; Safe Access to Cash Act; DHS Shutdown</title>
-      <link>https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown</link>
-      <guid isPermaLink="true">https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[March 06, 2026<br/><p><a href="https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/bill-to-improve-psob-helper-act-update-congress-takes-up-sanctuary-city-bills-napo-on-the-hill-safe-access-to-cash-act-dhs-shutdown">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
