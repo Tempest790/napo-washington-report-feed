@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Thu, 10 Sep 2026 15:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:48:09 +0000</lastBuildDate>
+    <item>
+      <title>NAPO President Mick McHale Marks 25 Years Since the 9/11 Terrorist Attacks</title>
+      <link>https://www.napo.org/news/napo-president-mick-mchale-marks-25-years-since-the-9-11-terrorist-attacks</link>
+      <guid isPermaLink="true">https://www.napo.org/news/napo-president-mick-mchale-marks-25-years-since-the-9-11-terrorist-attacks</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[September 11, 2026<br/><p><a href="https://www.napo.org/news/napo-president-mick-mchale-marks-25-years-since-the-9-11-terrorist-attacks">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-president-mick-mchale-marks-25-years-since-the-9-11-terrorist-attacks">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Senate Passes NAPO Priority PSOB Bill; Blanche Sworn in as Attorney General; NAPO Meets with Assistant Attorney General; PSOB Enhancement Act; Schroyer for ICE Director; August Recess</title>
       <link>https://www.napo.org/news/senate-passes-napo-priority-psob-bill-blanche-sworn-in-as-attorney-general-napo-meets-with-assistant-attorney-general-psob-enhancement-act-schroyer-for-ice-director-august-recess</link>
@@ -63,14 +71,6 @@
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[May 08, 2026<br/><p><a href="https://www.napo.org/news/peer-support-for-first-responders-shielding-federal-officers-from-threats-national-police-week-napo-meets-with-dhs-national-blue-alert-mandatory-social-security">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/peer-support-for-first-responders-shielding-federal-officers-from-threats-national-police-week-napo-meets-with-dhs-national-blue-alert-mandatory-social-security">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>FirstNet Reauthorization; FBI Law Enforcement Council Meeting; Monitor Accountability Act; Fitzmaurice v. City of Quincy; NAPO on the Hill</title>
-      <link>https://www.napo.org/news/firstnet-reauthorization-fbi-law-enforcement-council-meeting-monitor-accountability-act-fitzmaurice-v-city-of-quincy-napo-on-the-hill</link>
-      <guid isPermaLink="true">https://www.napo.org/news/firstnet-reauthorization-fbi-law-enforcement-council-meeting-monitor-accountability-act-fitzmaurice-v-city-of-quincy-napo-on-the-hill</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[April 24, 2026<br/><p><a href="https://www.napo.org/news/firstnet-reauthorization-fbi-law-enforcement-council-meeting-monitor-accountability-act-fitzmaurice-v-city-of-quincy-napo-on-the-hill">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/firstnet-reauthorization-fbi-law-enforcement-council-meeting-monitor-accountability-act-fitzmaurice-v-city-of-quincy-napo-on-the-hill">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
