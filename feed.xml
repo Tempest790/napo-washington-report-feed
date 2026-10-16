@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Thu, 15 Oct 2026 16:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:00:34 +0000</lastBuildDate>
+    <item>
+      <title>White House Luncheon Honoring First Responders; DOJ PSOB Listening Session; NAPO on the Hill: Monitor Accountability Act, FirstNet Reauthorization</title>
+      <link>https://www.napo.org/news/white-house-luncheon-honoring-first-responders-doj-psob-listening-session-napo-on-the-hill-monitor-accountability-act-firstnet-reauthorization</link>
+      <guid isPermaLink="true">https://www.napo.org/news/white-house-luncheon-honoring-first-responders-doj-psob-listening-session-napo-on-the-hill-monitor-accountability-act-firstnet-reauthorization</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[October 16, 2026<br/><p><a href="https://www.napo.org/news/white-house-luncheon-honoring-first-responders-doj-psob-listening-session-napo-on-the-hill-monitor-accountability-act-firstnet-reauthorization">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/white-house-luncheon-honoring-first-responders-doj-psob-listening-session-napo-on-the-hill-monitor-accountability-act-firstnet-reauthorization">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>Attorney General Violent Crime Summit; NAPO on the Hill; Bill Supporting NLEOMF; Safe Access to Cash Act; No Fentanyl on Social Media Act; Congress on Recess; NAPO Legislative Positions Update</title>
       <link>https://www.napo.org/news/attorney-general-violent-crime-summit-napo-on-the-hill-bill-supporting-nleomf-safe-access-to-cash-act-no-fentanyl-on-social-media-act-congress-on-recess-napo-legislative-positions-update</link>
@@ -63,14 +71,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[June 18, 2026<br/><p><a href="https://www.napo.org/news/senate-passes-fighting-ptsd-act-napo-meets-with-administration-on-crypto-regulations-napo-president-inducted-into-fl-law-enforcement-hall-of-fame-cops-grants-announced-napo-legislative-positions">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/senate-passes-fighting-ptsd-act-napo-meets-with-administration-on-crypto-regulations-napo-president-inducted-into-fl-law-enforcement-hall-of-fame-cops-grants-announced-napo-legislative-positions">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>DOJ Law Enforcement Meeting; COPS Consolidation; NAPO on the Hill; Crypto Legislation; Model Cities Initiative</title>
-      <link>https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative</link>
-      <guid isPermaLink="true">https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[June 05, 2026<br/><p><a href="https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/doj-law-enforcement-meeting-cops-consolidation-napo-on-the-hill-crypto-legislation-model-cities-initiative">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
