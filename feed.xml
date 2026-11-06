@@ -7,7 +7,15 @@
     <link>https://www.napo.org/washington-report</link>
     <atom:link href="https://tempest790.github.io/napo-washington-report-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Latest Washington Report entries from NAPO (title + date + link).</description>
-    <lastBuildDate>Thu, 05 Nov 2026 19:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:49:54 +0000</lastBuildDate>
+    <item>
+      <title>Special Election Update: What a Democratic Congress Means for NAPO</title>
+      <link>https://www.napo.org/news/special-election-update-what-a-democratic-congress-means-for-napo</link>
+      <guid isPermaLink="true">https://www.napo.org/news/special-election-update-what-a-democratic-congress-means-for-napo</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[November 05, 2026<br/><p><a href="https://www.napo.org/news/special-election-update-what-a-democratic-congress-means-for-napo">Open the full article on NAPO</a></p>]]></description>
+      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/special-election-update-what-a-democratic-congress-means-for-napo">Open the full article on NAPO</a></p>]]></content:encoded>
+    </item>
     <item>
       <title>NAPO Submits Comments to FCC Supporting Allowing Cell Phone Jamming in Prisons; Final PBM Transparency Rules; NAPO on the Hill; Lame Duck Outlook</title>
       <link>https://www.napo.org/news/napo-submits-comments-to-fcc-supporting-allowing-cell-phone-jamming-in-prisons-final-pbm-transparency-rules-napo-on-the-hill-lame-duck-outlook</link>
@@ -63,14 +71,6 @@
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[July 17, 2026<br/><p><a href="https://www.napo.org/news/napo-on-the-hill-ndaa-acting-attorney-general-blanche-nomination-hearing-deputy-darren-almendarez-act-thank-you-to-our-convention-sponsors">Open the full article on NAPO</a></p>]]></description>
       <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/napo-on-the-hill-ndaa-acting-attorney-general-blanche-nomination-hearing-deputy-darren-almendarez-act-thank-you-to-our-convention-sponsors">Open the full article on NAPO</a></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>White House Law Enforcement Roundtable; NAPO on the Hill; DOJ Equitable Sharing Program; $3 Billion Immigration-Related DOJ Grant; OJP Nominee Hearing</title>
-      <link>https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing</link>
-      <guid isPermaLink="true">https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[July 01, 2026<br/><p><a href="https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing">Open the full article on NAPO</a></p>]]></description>
-      <content:encoded><![CDATA[<p><a href="https://www.napo.org/news/white-house-law-enforcement-roundtable-napo-on-the-hill-doj-equitable-sharing-program-3-billion-immigration-related-doj-grant-ojp-nominee-hearing">Open the full article on NAPO</a></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
